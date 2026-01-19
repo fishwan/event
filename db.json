@@ -1,7 +1,61 @@
 {
   "events": [
-    { "id": 1, "date": "2026-01-20", "title": "會議" },
-    { "id": 2, "date": "2026-01-22", "title": "看醫生" },
-    { "id": 3, "date": "2026-01-25", "title": "聚餐" }
+    { 
+      "id": 150712, 
+      "companyName": "彩尚",
+      "branchName": "昆陽店",
+      "date": "2026-01-20", 
+      "time": "10:00",
+      "title": "冷燙",
+      "customerName": "小王",
+      "customerPhone": "0912345678",
+      "deposit": "1500",
+      "paumentStatus": "已付款",
+      "designerName": "小張",
+      "reservation": {
+        "way": "網路預約",
+        "date": "2026-01-17",
+        "time": "12:22"
+      },
+      "formStatus": "已報到"
+    },
+    { 
+      "id": 150713, 
+      "companyName": "彩尚",
+      "branchName": "昆陽店",
+      "date": "2026-01-22", 
+      "time": "14:30",
+      "title": "洗剪髮",
+      "customerName": "小美",
+      "customerPhone": "0987654321",
+      "deposit": "1300",
+      "paumentStatus": "未付款",
+      "designerName": "小艾",
+      "reservation": {
+        "way": "網路預約",
+        "date": "2026-01-19",
+        "time": "10:39"
+      },
+      "formStatus": "未確認"
+    },
+    { 
+      "id": 150714, 
+      "companyName": "彩尚",
+      "branchName": "昆陽店",
+      "date": "2026-01-25", 
+      "time": "18:00",
+      "title": "染髮",
+      "customerName": "小粉", 
+      "customerPhone": "0912345678",
+      "deposit": "0",
+      "paumentStatus": "無須付訂",
+      "designerName": "小藍",
+      "reservation": {
+        "way": "網路預約",
+        "date": "2026-01-22",
+        "time": "12:30"
+      },
+      "formStatus": "預約中"
+    }
   ]
 }
