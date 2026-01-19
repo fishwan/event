@@ -18,11 +18,11 @@
       },
       "payment": {
         "className": "bg-primary",
-        "Status": "已付款"
+        "status": "已付款"
       },
       "form": {
         "className": "bg-primary",
-        "Status": "已報到"
+        "status": "已報到"
       }
     },
     { 
@@ -43,11 +43,11 @@
       },
       "payment": {
         "className": "bg-primary",
-        "Status": "已付款"
+        "status": "已付款"
       },
       "form": {
         "className": "bg-primary",
-        "Status": "已報到"
+        "status": "已報到"
       }
     },
     { 
@@ -68,11 +68,11 @@
       },
       "payment": {
         "className": "bg-pink-600",
-        "Status": "未付款"
+        "status": "未付款"
       },
       "form": {
         "className": "bg-pink-600",
-        "Status": "未確認"
+        "status": "未確認"
       }
     },
     { 
@@ -93,11 +93,11 @@
       },
       "payment": {
         "className": "bg-slate-500",
-        "Status": "無須付訂"
+        "status": "無須付訂"
       },
       "form": {
         "className": "bg-slate-500",
-        "Status": "預約中"
+        "status": "預約中"
       }
     }
   ]
