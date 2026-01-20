@@ -4,7 +4,7 @@
       "id": 1, 
       "companyName": "彩尚",
       "branchName": "昆陽店",
-      "date": "2026-01-19", 
+      "date": "2026-01-20", 
       "time": "10:00",
       "title": "冷燙",
       "customerName": "小王",
@@ -17,11 +17,11 @@
         "time": "12:22:35"
       },
       "payment": {
-        "className": "bg-primary",
+        "className": "bg-primary text-white",
         "status": "已付款"
       },
       "form": {
-        "className": "bg-primary",
+        "className": "bg-primary text-white",
         "status": "已報到"
       }
     },
@@ -29,7 +29,7 @@
       "id": 2, 
       "companyName": "彩尚",
       "branchName": "昆陽店",
-      "date": "2026-01-19", 
+      "date": "2026-01-20", 
       "time": "14:00",
       "title": "洗剪髮",
       "customerName": "小琪",
@@ -42,12 +42,12 @@
         "time": "09:12:55"
       },
       "payment": {
-        "className": "bg-primary",
-        "status": "已付款"
+        "className": "bg-slate-500 text-white",
+        "status": "無訂金"
       },
       "form": {
-        "className": "bg-primary",
-        "status": "已報到"
+        "className": "bg-gray-100 text-gray-400",
+        "status": "取消預約"
       }
     },
     { 
@@ -67,11 +67,11 @@
         "time": "10:39:14"
       },
       "payment": {
-        "className": "bg-pink-600",
+        "className": "bg-pink-600 text-white",
         "status": "未付款"
       },
       "form": {
-        "className": "bg-pink-600",
+        "className": "bg-pink-600 text-white",
         "status": "未確認"
       }
     },
@@ -92,11 +92,11 @@
         "time": "12:30:45"
       },
       "payment": {
-        "className": "bg-slate-500",
+        "className": "bg-slate-500 text-white",
         "status": "無須付訂"
       },
       "form": {
-        "className": "bg-slate-500",
+        "className": "bg-slate-500 text-white",
         "status": "預約中"
       }
     }
