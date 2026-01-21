@@ -7,10 +7,13 @@
       "date": "2026-01-20", 
       "time": "10:00",
       "title": "冷燙",
-      "customerName": "小王",
-      "customerPhone": "0912345678",
       "deposit": "1500",
       "designerName": "小宇",
+      "customer": {
+        "name": "小王",
+        "phone": "0912345678",
+        "note": "請幫我設計自然捲"
+      },
       "reservation": {
         "way": "網路預約",
         "date": "2026-01-17",
@@ -32,10 +35,13 @@
       "date": "2026-01-20", 
       "time": "14:00",
       "title": "洗剪髮",
-      "customerName": "小琪",
-      "customerPhone": "0922445678",
       "deposit": "800",
       "designerName": "小宇",
+      "customer": {
+        "name": "小琪",
+        "phone": "0922445678",
+        "note": ""
+      },
       "reservation": {
         "way": "網路預約",
         "date": "2026-01-13",
@@ -57,10 +63,13 @@
       "date": "2026-01-22", 
       "time": "14:30",
       "title": "洗剪髮",
-      "customerName": "小美",
-      "customerPhone": "0987654321",
       "deposit": "1300",
       "designerName": "小宇",
+      "customer": {
+        "name": "小美",
+        "phone": "0987654321",
+        "note": ""
+      },
       "reservation": {
         "way": "網路預約",
         "date": "2026-01-19",
@@ -82,10 +91,13 @@
       "date": "2026-01-25", 
       "time": "18:00",
       "title": "染髮",
-      "customerName": "小粉", 
-      "customerPhone": "0912345678",
       "deposit": "0",
       "designerName": "小宇",
+      "customer": {
+        "name": "小粉",
+        "phone": "0912345678",
+        "note": "想染淺粉色"
+      },
       "reservation": {
         "way": "網路預約",
         "date": "2026-01-22",
